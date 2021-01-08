@@ -2,6 +2,10 @@
      margin-left: 20px;
 }
 
+.project-header{
+     color: blue;
+}
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
